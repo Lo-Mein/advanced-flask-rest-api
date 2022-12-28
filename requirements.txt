@@ -1,0 +1,6 @@
+Flask
+Flask-JWT-Extended
+Flask-RESTful
+Flask-SQLAlchemy
+black
+python-dotenv
